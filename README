@@ -1,1 +1,1 @@
-Very early stage... column.js generates a column chart using div elements. The objective is to create as many charts as possible using only HTML elements and CSS using no third party libraries. 
+Very early stage... column.js generates a column chart using div elements. The objective is to create as many charts as possible using only HTML elements, CSS and no third party libraries. 
